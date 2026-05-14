@@ -1,4 +1,4 @@
-# NYPD Arrest Analysis (January 2025) - Group 10
+# NYPD Arrest Analysis (January 2025)
 
 This is our final project for CIS 2300. We analyzed NYPD arrest data from January 2025 to look for patterns across NYC boroughs, age groups, and arrest trends.
 
